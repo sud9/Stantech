@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Stantech</string>
+      <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyBo8Ug_NpcG6KAUO3C0ZiMlPH6TeqtTh4E</string>
 </resources>
