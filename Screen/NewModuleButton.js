@@ -70,7 +70,7 @@ const NewModuleButton = () => {
         )}
       </View>
       <Text style={{color: mode ? 'green' : 'red', fontWeight: 'bold'}}>
-        {mode ? 'ON' : 'OFF'}
+        {mode ? 'ON' : 'OFFededede'}
       </Text>
     </View>
   );
